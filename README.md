@@ -41,3 +41,26 @@ To receive full credit, you must show a **history of progress**. Do not upload y
 See which files you have modified:
 ```bash
 git status
+
+### 2. Stage your changes
+Tell Git which files you want to include in your next "snapshot":
+
+```bash
+git add src/Student.java src/Main.java
+###3. Commit with a message
+Create a snapshot of your work.
+**Requirement:** You must have at least **3 separate commits** (e.g., "Initial class setup," "Added getters/setters," "Completed Main logic").
+
+Bash
+git commit -m "Your descriptive message here"
+
+### 4. Push to GitHub
+Upload your local commits to the cloud:
+
+Bash
+git push origin main
+
+## ⚠️ Important Rules
+**Manual Grading:** Your instructor will review your Commit History to verify your involvement.
+**Meaningful Messages:** Avoid generic messages like "update" or "fixed." Be descriptive!
+**No Late Pushes:** Only commits pushed before the deadline will be reviewed.
