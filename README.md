@@ -67,7 +67,11 @@ git push origin main
 javac -d . src/*.java
 ```
 
-## ⚠️ Important Rules
-**Manual Grading:** Your instructor will review your Commit History to verify your involvement.
-**Meaningful Messages:** Avoid generic messages like "update" or "fixed." Be descriptive!
-**No Late Pushes:** Only commits pushed before the deadline will be reviewed.
+## ✅ Submission Checklist
+Before you consider your assignment finished, check off the following:
+
+- [ ] I have created `src/Student.java` with private fields.
+- [ ] My code compiles locally using `javac`.
+- [ ] I have at least 3 distinct commits in my Git history.
+- [ ] My "Smoke Test" badge at the top of this page is **Green**.
+- [ ] I have pushed all my changes to GitHub.
