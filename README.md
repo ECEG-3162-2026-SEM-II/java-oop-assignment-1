@@ -1,3 +1,4 @@
+![Java Smoke Test](https://github.com/ECEG-3162-2026-SEM-II/java-oop-assignment-1/actions/workflows/smoke-test.yml/badge.svg)
 # Assignment 01: Java OOP & Git Fundamentals
 
 Welcome to your first Java assignment! This project is designed to help you practice **Encapsulation** in Java while mastering the **Git Workflow** used in professional software development.
